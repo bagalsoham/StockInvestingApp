@@ -1,1 +1,2 @@
 # Stock_App
+A responsive Zerodha website clone built with the MERN stack (MongoDB, Express.js, React.js, Node.js) for learning purposes. Features include user authentication, a simulated stock dashboard, and responsive design. This project is created to enhance full-stack development skills.
